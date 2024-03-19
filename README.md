@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjariph
 - 👀 I’m interested in programming
-- 🌱 I’m currently working with API and android development
+- 🌱 I’m currently working with the API for Web's App and Android Development
 <!-- - 📫 How to reach me ... -->
 
 <!---
