@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sjariph
 - 👀 I’m interested in programming
-- 🌱 I’m currently working with the API for Web's App and Android Development
-<!-- - 📫 How to reach me ... -->
+- 🌱 I’m currently working with Web's App and Android Development
 
-<!---
-sjariph/sjariph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+----
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjariph&layout=compact" />
+</div>
